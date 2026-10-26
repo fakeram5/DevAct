@@ -51,7 +51,7 @@
         "device_id": "078a60fcb768323b",
         "key": "111",
         "expirydate": "26-11-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
 {
         "device_id": "5fcf50071e7c7670",
@@ -93,19 +93,19 @@
         "device_id": "f3ab829adc9194a2",
         "key": "Bhopal@123",
         "expirydate": "26-11-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
 {
         "device_id": "edf72fddae72c338",
         "key": "Bhopal@1234",
         "expirydate": "26-11-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
 {
         "device_id": "1789a81cfd12dcee",
         "key": "Bhopal@12354",
         "expirydate": "26-11-2026",
-        "Allowoffline": false
+        "Allowoffline": true
     },
 
 {
