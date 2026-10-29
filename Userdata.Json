@@ -162,5 +162,11 @@
         "expirydate": "26-10-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "1789a81cfd12dcee",
+        "key": "Kamal@123987",
+        "expirydate": "26-11-2026",
+        "Allowoffline": false
+    },
 
 ]
