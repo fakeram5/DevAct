@@ -168,5 +168,35 @@
         "expirydate": "26-11-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "610e3c0b2d82eccf",
+        "key": "800055689",
+        "expirydate": "07-12-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "80da938b075158e3",
+        "key": "800055202",
+        "expirydate": "07-12-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "4e219c2b2716cdbd",
+        "key": "800045129",
+        "expirydate": "07-12-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "473f914553404b46",
+        "key": "800101289",
+        "expirydate": "07-12-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "6c0592e8bdc0c19c",
+        "key": "800111034",
+        "expirydate": "07-12-2026",
+        "Allowoffline": false
+    },
 
 ]
