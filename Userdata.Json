@@ -261,4 +261,10 @@
         "expirydate": "12-12-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "0f52e68c1c1f07e8",
+        "key": "800104118",
+        "expirydate": "13-12-2026",
+        "Allowoffline": false
+    },
 ]
