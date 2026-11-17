@@ -334,5 +334,11 @@
         "expirydate": "16-12-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "078a60fcb768323b",
+        "key": "HUL123456",
+        "expirydate": "16-12-2026",
+        "Allowoffline": false
+    },
 
 ]
