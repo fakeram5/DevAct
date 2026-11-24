@@ -400,5 +400,11 @@
         "expirydate": "24-12-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "bb9060f28ef8fedc",
+        "key": "800035343",
+        "expirydate": "24-12-2026",
+        "Allowoffline": false
+    },
 
 ]
