@@ -379,4 +379,26 @@
         "expirydate": "23-12-2026",
         "Allowoffline": false
     },
+
+{
+        "device_id": "3d378dfdd1351994",
+        "key": "800025018",
+        "expirydate": "24-12-2026",
+        "Allowoffline": false
+    },
+
+{
+        "device_id": "c0079a7d718be5f6",
+        "key": "800033878",
+        "expirydate": "24-12-2026",
+        "Allowoffline": false
+    },
+
+{
+        "device_id": "4f2eb7a5767c3ef9",
+        "key": "600041449",
+        "expirydate": "24-12-2026",
+        "Allowoffline": false
+    },
+
 ]
