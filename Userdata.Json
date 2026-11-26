@@ -1,17 +1,5 @@
 [
     {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "078a60fcb768323b",
         "key": "111",
         "expirydate": "26-12-2026",
@@ -21,30 +9,6 @@
         "device_id": "c877a5b0918fa52b",
         "key": "kamal11111",
         "expirydate": "26-12-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "6efb82527244af5e",
-        "key": "1789250124",
-        "expirydate": "26-10-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "be44ef2280515f2b",
-        "key": "1789250125",
-        "expirydate": "26-10-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "9c5ddd68ab0b7f8a",
-        "key": "1789250126",
-        "expirydate": "26-10-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "ee1092b340e29b3a",
-        "key": "1789250127",
-        "expirydate": "26-10-2026",
         "Allowoffline": false
     },
 {
@@ -88,18 +52,6 @@
         "key": "98765413",
         "expirydate": "26-10-2026",
         "Allowoffline": false
-    },
-{
-        "device_id": "edf72fddae72c338",
-        "key": "Bhopal@1234",
-        "expirydate": "26-11-2026",
-        "Allowoffline": true
-    },
-{
-        "device_id": "1789a81cfd12dcee",
-        "key": "Bhopal@12354",
-        "expirydate": "26-11-2026",
-        "Allowoffline": true
     },
 
 {
@@ -156,12 +108,7 @@
         "expirydate": "26-10-2026",
         "Allowoffline": false
     },
-{
-        "device_id": "1789a81cfd12dcee",
-        "key": "Kamal@123987",
-        "expirydate": "26-11-2026",
-        "Allowoffline": false
-    },
+
 {
         "device_id": "610e3c0b2d82eccf",
         "key": "800055689",
@@ -422,16 +369,10 @@
 
 {
         "device_id": "1789a81cfd12dcee",
-        "key": "800082557",
+        "key": "22222",
         "expirydate": "25-12-2026",
         "Allowoffline": false
     },
-{
 
-        "device_id": "d62820b190b3c37c",
-        "key": "Kamal@123987",
-        "expirydate": "25-12-2026",
-        "Allowoffline": false
-    },
 
 ]
