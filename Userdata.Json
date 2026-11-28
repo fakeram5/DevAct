@@ -380,5 +380,10 @@
         "expirydate": "26-12-2026",
         "Allowoffline": false
     },
-
+{
+        "device_id": "1afeaeae0f0bbc85",
+        "key": "temp1234",
+        "expirydate": "29-11-2026",
+        "Allowoffline": false
+    },
 ]
